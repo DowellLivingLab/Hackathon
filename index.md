@@ -1,123 +1,89 @@
----
-layout: default
----
+### Registration Rules
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+1. Minimum education qualification- 12th/higher secondary passed
 
-[Link to another page](./another-page.html).
+2. Maximum Age Limit- 25 years
 
-There should be whitespace between paragraphs.
+3. Minimum Age Limit- 18 years
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+4. Eligible- Students / Job Seekers / non exclusive freelancers
 
-# Header 1
+5. Nationality- Any country . Communicative Language- English (Mandatory)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+6. Software and Hardware- Stable internet connection with a working PC/Desktop is a must
 
-## Header 2
+7. Agreement- Non-disclosure agreement to be signed with DoWell
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+8. Number of participants- Team of 2-5 or an Individual
 
-### Header 3
+9. Applications will be screened as per the criteria
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+10. Registration and participation is totally free for participants.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+11. Participants have to refer task page for the details and steps of Hackathon 
 
-#### Header 4
+12. The task to be performed in a public repositories under GNU/MIT license
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+13. Refer the Judging criteria and the rewards in the assessment page
 
-##### Header 5
+14. Law of Singapore shall be applicable to all the participants irrespective of their nationality.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+15. Copyrights/patents/licenses related to your contributions is our Sole discretion
 
-###### Header 6
+16. Not eligible- Workers / employees / exclusive freelancers of any company
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+17. Employees, freelancers or interns from DoWell are not eligible to participate.
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Click here for registration [Registration Link](https://forms.gle/h9ExJmvgXoL923k89).
 
 
-### Definition lists can be used with HTML syntax.
+### Rules for executing task
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. Note taking hologram is a Concept of Dowell for a live interaction meeting or similar sessions
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+2. Hologram to be considered a digital identity like a member participating in a live event
 
-```
-The final element.
-```
+3. Hologram is envisaged to hear the discussions in the meeting where it participates 
+
+4. Screenshots and voice recording to be done as and when required or continuously
+
+5. Live notes as a verbatim to be prepared during the participation of the meeting with speaker identification and timestamp
+
+6. To be proposed as an app or avatar and the same will be invited as a live member in the meeting irrespective of meeting platforms
+
+7. The task is required to be completed in github public repository created by dowell
+
+8. Participants have to branch the repository and contribute
+
+9. Development through forking will not be considered as participation
+
+10. Participant's rights will be granted as a team or individual to the repository
+
+11. Participant's have to put their contributions in code tab along with attachments
+
+12. The issues to be informed or put in issues tab
+
+13. Our judges will examine and then accept your commits to the master
+
+14. Duration-15 days
+
+15. Prize to be given out on participant basis irrespective of team or individual
+
+### Rules for judgement
+
+1. This is a contributory hackathon
+
+2. Participant's contribution will be judged on the basis of their participation and quantity of contribution
+
+3. The organizer's judgement is final
+
+4. Refer the Calculation template for more clarity on the judgement method
+
+5. Discontinuing attendees will be considered only upto the stage they have participated
+
+6. Only full attendees will be considered for the final assessment
+
+7. Prizes to be awarded based on performance in each task and overall performance in the project
+
+
+
