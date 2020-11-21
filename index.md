@@ -1,2 +1,2 @@
 
-### Latest News
+## Latest News
